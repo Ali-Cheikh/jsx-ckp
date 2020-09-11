@@ -1,5 +1,5 @@
 .hello-ahmed {
-    border: solid 1px yellow;
+    border: solid 1px black;
     max-width: 100vw;
     justify-content: center;
     text-align: center;
@@ -10,6 +10,7 @@ h3 {
     color: tomato;
     justify-content: center;
     background-color: black;
+    text-align: center;
 }
 
 .img {
@@ -22,7 +23,10 @@ h3 {
     background-color: #aaaaaa;
     color: black;
 }
-
+.hi {
+    justify-content: center;
+    text-align: center;
+}
 .awesome {
     border: '1px solid red'
 }
